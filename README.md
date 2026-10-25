@@ -1,6 +1,7 @@
 # CS255 - System Analysis and Design
 
 Project Summary: DriverPass
+
 The client for this project was Liam, the owner of DriverPass—a driving school struggling with administrative bottlenecks and a high student failure rate on DMV driving tests (around 65%). Liam and his internal IT specialist, Ian, needed a centralized, automated web and mobile management platform. The goal was to replace fragmented manual scheduling and record-keeping with an integrated system handling online lesson booking, instructor scheduling, vehicle tracking, secure payment processing across various service packages, and interactive DMV practice tests with automated scoring and analytics.
 
 Areas of Strength
